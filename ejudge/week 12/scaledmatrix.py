@@ -7,6 +7,7 @@ def main():
     grid = []
     for _ in range(rows*columns):
         num.append(float(input()))
+
     for numbers in num:
         sol = (numbers - min(num)) / (max(num) - min(num))
         grid.append("%.2f" %sol)

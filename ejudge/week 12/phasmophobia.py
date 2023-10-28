@@ -1,0 +1,3 @@
+"""phasmophobia"""
+def phasmo():
+    

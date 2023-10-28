@@ -1,0 +1,3 @@
+"""sqfree"""
+def sqfree(num):
+    
